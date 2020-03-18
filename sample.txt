@@ -1,0 +1,16 @@
+git commands list
+
+git log - to get the list of commits
+git diff - get the difference between commits
+git remote - check the local git repo is connected to remote repo (hub)
+git --version - gives the git version
+git remove - to remove file from repository
+
+git add - add file to staging area and track it
+git commit - commit the file
+
+git push - push the code to remote repo
+
+git clone <url> - clone the remote rep into local repo
+
+git init - initialize git repository, create .git hidden dir with local repo
